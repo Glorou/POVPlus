@@ -9,6 +9,7 @@ Copy https://raw.githubusercontent.com/TiraesiascenGraven/POVPlus/main/repo.json
 It will then appear under the name "POV+" in the All Plugins list
 
 TODO LIST / KNOWN BUGS
-FOV Slider applies to third person after leaving first person
+FOV Slider applies to third person after leaving first person \n
 The / command needs to be renamed
 An optional button to disable the camera in third person needs to be added (and maybe FOV too)
+
