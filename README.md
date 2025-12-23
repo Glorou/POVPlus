@@ -6,6 +6,7 @@ It also stops making characters invisible when too close to the camera allowing 
 
 
 Download Instructions:
+
 Copy https://raw.githubusercontent.com/TiraesiascenGraven/POVPlus/main/repo.json into Dalamud Custom Plugin Repository.
 
 It will then appear under the name "POV+" in the All Plugins list
@@ -19,5 +20,6 @@ FOV Slider applies to third person after leaving first person
 The / command needs to be renamed
 
 An optional button to disable the camera in third person needs to be added (and maybe FOV too)
+
 
 
